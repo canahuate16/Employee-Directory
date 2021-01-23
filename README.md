@@ -3,6 +3,9 @@
 ## Image
 ![employee-directory](https://user-images.githubusercontent.com/15930792/105568428-2b725700-5d07-11eb-95c9-ff8f797878be.PNG)
 
+## Deployed application link
+https://react-employee-directory-site.herokuapp.com/
+
 ## Project Description
 * React application that allows the user to quickly view information regarding employees at their company as well as to sort and search by name.
 
