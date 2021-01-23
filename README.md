@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Employee-Directory
+
+## Image
+![employee-directory](https://user-images.githubusercontent.com/15930792/105568428-2b725700-5d07-11eb-95c9-ff8f797878be.PNG)
+
+## Project Description
+* React application that allows the user to quickly view information regarding employees at their company as well as to sort and search by name.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
