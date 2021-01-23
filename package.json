@@ -1,5 +1,6 @@
 {
   "name": "employee-directory",
+<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,4 +39,22 @@
       "last 1 safari version"
     ]
   }
+=======
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canahuate16/employee-directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canahuate16/employee-directory/issues"
+  },
+  "homepage": "https://github.com/canahuate16/employee-directory#readme"
+>>>>>>> 2209cb943e08f42d29d8e293f37d13bd9f7c4332
 }
