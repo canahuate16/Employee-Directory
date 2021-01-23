@@ -9,4 +9,4 @@ function Layout(props) {
     )
 }
 
-export default Layou;
+export default Layout;
